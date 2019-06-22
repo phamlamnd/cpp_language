@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spiral primes cpp", "Spiral primes cpp\Spiral primes cpp.vcxproj", "{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copy code", "copy code\copy code.vcxproj", "{1C9572E0-46B4-48D7-A24E-22783E5AB673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Debug|x64.ActiveCfg = Debug|x64
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Debug|x64.Build.0 = Debug|x64
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Debug|x86.Build.0 = Debug|Win32
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Release|x64.ActiveCfg = Release|x64
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Release|x64.Build.0 = Release|x64
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Release|x86.ActiveCfg = Release|Win32
+		{62542E2D-152E-4C5A-8C24-0B5F0DCAF1A2}.Release|x86.Build.0 = Release|Win32
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Debug|x64.ActiveCfg = Debug|x64
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Debug|x64.Build.0 = Debug|x64
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Debug|x86.Build.0 = Debug|Win32
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Release|x64.ActiveCfg = Release|x64
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Release|x64.Build.0 = Release|x64
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Release|x86.ActiveCfg = Release|Win32
+		{1C9572E0-46B4-48D7-A24E-22783E5AB673}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+Advance C++
+http://www.stroustrup.com/bs_faq2.html#virtual-ctor
+https://www.geeksforgeeks.org/advanced-c-virtual-constructor/​
+https://www.youtube.com/watch?v=RC7uE_wl1Uc&list=PLE28375D4AC946CC3&index=2
+https://www.youtube.com/user/BoQianTheProgrammer/playlists?disable_polymer=1
+http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html#zz-2.2
+http://www.ntu.edu.sg/home/ehchua/programming/cpp/DataStructureAlgorithm.html
+http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+https://www.youtube.com/watch?v=q5OfB6ZXT6E&list=PL5jc9xFGsL8E_BJAbOw_DH6nWDxKtzBPA&t=0s&index=5
+https://www.youtube.com/watch?v=xcpSLRpOMJM​
+
+
+MFC:
+https://docs.microsoft.com/vi-vn/windows/desktop/api/fileapi/nf-fileapi-getlogicaldrivestringsw
+https://www.bogotobogo.com/Win32API/Win32API_MFC.php
+
+Popup menu:
+http://www.functionx.com/visualc/howto/contextmenu.htm
+http://www.equestionanswers.com/vcpp/popup-menu-context-menu.php
+https://www.codeguru.com/cpp/controls/treeview/misc-advanced/article.php/c691/Right-button-popup-menu.htm​
+http://www.functionx.com/visualc/howto/contextmenu.htm
+http://www.functionx.com/visualc/howto/contextmenu.htm
+https://www.codeguru.com/cpp/controls/treeview/misc-advanced/article.php/c691/Right-button-popup-menu.htm
+
+Cut Copy Paste:
+https://msdn.microsoft.com/en-us/library/80db3kax.aspx
+https://msdn.microsoft.com/en-us/library/2ca18w7k.aspx
+https://www.codeproject.com/Questions/465653/How-to-Disable-Enable-copy-cut-paste-in-the-regist
+http://computer-programming-forum.com/82-mfc/9d4ddd114b5faaa6.htm
+https://msdn.microsoft.com/en-us/library/80db3kax.aspx
+https://www.codeproject.com/Articles/3917/Drag-drop-cut-copy-and-paste-operations-on-lists-o
+https://docs.microsoft.com/vi-vn/windows/desktop/dataxchg/using-the-clipboard​
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/621c125c-4e1d-41e6-9bb3-4c772296c859/copyfile-function-fails-when-copying-file-to-a-network-share?forum=vcgeneral
+https://docs.microsoft.com/en-us/windows/desktop/api/shellapi/nf-shellapi-shfileoperationa
+https://docs.microsoft.com/en-us/windows/desktop/api/shellapi/ns-shellapi-_shfileopstructa
+https://docs.microsoft.com/vi-vn/windows/desktop/api/winbase/nf-winbase-movefiletransacteda​
+
+https://docs.microsoft.com/vi-vn/windows/desktop/dataxchg/using-the-clipboard#creating-an-edit-menu
+http://rsdn.org/forum/mfc/26205.all
+https://github.com/VioletGiraffe/file-commander/blob/6fdbfad12ccad7b887b66a4d26aae0a0c88c6ad7/file-commander-core/src/shell/cshell.cpp
+https://docs.microsoft.com/vi-vn/windows/desktop/dataxchg/clipboard-functions​
+
+Advance MFC:
+http://www.math.hcmuns.edu.vn/~tatuana/C%20For%20Win/MFC%20Old%20Class/Tai%20Lieu%20Tham%20Khao/Advanced%20MFC%20Programming.pdf​ I really a developer or just a
+
+Am I a developer or googler?
+https://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx
+
+CFileFind:
+https://msdn.microsoft.com/en-us/library/f33e1618.aspx
+
+Status Bar:
+http://www.ucancode.net/Visual_C_MFC_Samples/Add_Status_CStatusBar_MFC_Dialog_Sample.htm
+https://msdn.microsoft.com/en-us/library/fha3tfk7.aspx
+https://mariusbancila.ro/blog/2015/07/27/dynamic-dialog-layout-for-mfc-in-visual-c-2015/
+https://www.codeproject.com/Articles/1175/ResizableLib
+
+Drag and Drop File
+https://www.codeguru.com/cpp/controls/listview/dragdrop/article.php/c6399/A-Drag-and-Drop-List-Control.htm
+
+Get Size:
+https://msdn.microsoft.com/en-us/library/x2b14fx4.aspx
+https://stackoverflow.com/questions/916973/recursive-file-search-using-c-mfc
+
+Search Item on shell_tree:
+https://mariusbancila.ro/blog/2007/06/29/finding-an-item-in-a-ctreectrl/​

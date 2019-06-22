@@ -1,0 +1,3 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BaiTap1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BaiTap1.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Multiples of 3 and 5\Debug\Multiples of 3 and 5.exe
+  BaiTap1.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Multiples of 3 and 5\Debug\Multiples of 3 and 5.pdb (Partial PDB)

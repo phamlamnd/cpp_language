@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\workspace\cpp_language\projecteuler.net\prime permutations\prime permutations\source.cpp(49): warning C4102: 'fini': unreferenced label
+  Prime permutations.vcxproj -> D:\Workspace\cpp_language\Projecteuler.net\Prime permutations\Debug\Prime permutations.exe

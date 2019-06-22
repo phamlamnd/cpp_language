@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\bin\Debug\Integer right triangles.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\bin\Debug\Integer right triangles.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\bin\Debug\Integer right triangles.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\obj\Debug\Integer right triangles.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\obj\Debug\Integer right triangles.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Integer right triangles\Integer right triangles\obj\Debug\Integer right triangles.pdb

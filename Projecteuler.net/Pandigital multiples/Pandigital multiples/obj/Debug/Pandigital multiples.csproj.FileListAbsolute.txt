@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\bin\Debug\Pandigital multiples.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\bin\Debug\Pandigital multiples.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\bin\Debug\Pandigital multiples.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\obj\Debug\Pandigital multiples.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\obj\Debug\Pandigital multiples.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital multiples\Pandigital multiples\obj\Debug\Pandigital multiples.pdb

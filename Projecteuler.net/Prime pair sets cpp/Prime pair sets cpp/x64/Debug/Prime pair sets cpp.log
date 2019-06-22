@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\prime pair sets cpp\prime pair sets cpp\source.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  d:\study\electrical\cplusplus\bai tap tren mang c++\prime pair sets cpp\prime pair sets cpp\source.cpp(46): note: see reference to function template instantiation 'bool IsTalkingPrime<int>(phamlamnd,phamlamnd)' being compiled
+          with
+          [
+              phamlamnd=int
+          ]
+d:\study\electrical\cplusplus\bai tap tren mang c++\prime pair sets cpp\prime pair sets cpp\source.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Prime pair sets cpp.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Prime pair sets cpp\x64\Debug\Prime pair sets cpp.exe
+  Prime pair sets cpp.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Prime pair sets cpp\x64\Debug\Prime pair sets cpp.pdb (Partial PDB)

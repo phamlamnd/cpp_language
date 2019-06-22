@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\bin\Debug\Square root convergents cs.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\bin\Debug\Square root convergents cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\bin\Debug\Square root convergents cs.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\obj\Debug\Square root convergents cs.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\obj\Debug\Square root convergents cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Square root convergents cs\Square root convergents cs\obj\Debug\Square root convergents cs.pdb

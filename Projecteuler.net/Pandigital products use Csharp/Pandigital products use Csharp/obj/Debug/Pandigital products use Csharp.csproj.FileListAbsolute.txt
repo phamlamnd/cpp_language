@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\bin\Debug\Pandigital products use Csharp.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\bin\Debug\Pandigital products use Csharp.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\bin\Debug\Pandigital products use Csharp.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\obj\Debug\Pandigital products use Csharp.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\obj\Debug\Pandigital products use Csharp.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pandigital products use Csharp\Pandigital products use Csharp\obj\Debug\Pandigital products use Csharp.pdb

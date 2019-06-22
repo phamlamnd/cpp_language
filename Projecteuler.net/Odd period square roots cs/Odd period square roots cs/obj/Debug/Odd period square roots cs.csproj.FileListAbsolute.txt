@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\bin\Debug\Odd period square roots cs.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\bin\Debug\Odd period square roots cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\bin\Debug\Odd period square roots cs.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\obj\Debug\Odd period square roots cs.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\obj\Debug\Odd period square roots cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Odd period square roots cs\Odd period square roots cs\obj\Debug\Odd period square roots cs.pdb

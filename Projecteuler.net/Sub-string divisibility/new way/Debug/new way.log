@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\sub-string divisibility\new way\source.cpp(26): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  new way.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Sub-string divisibility\Debug\new way.exe
+  new way.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Sub-string divisibility\Debug\new way.pdb (Partial PDB)

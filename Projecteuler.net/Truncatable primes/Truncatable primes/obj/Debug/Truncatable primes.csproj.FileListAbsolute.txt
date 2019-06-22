@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\bin\Debug\Truncatable primes.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\bin\Debug\Truncatable primes.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\bin\Debug\Truncatable primes.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\obj\Debug\Truncatable primes.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\obj\Debug\Truncatable primes.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Truncatable primes\Truncatable primes\obj\Debug\Truncatable primes.pdb

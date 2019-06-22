@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\fptsoftware\codesignal.com\sortorderids\sortorderids\source.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\fptsoftware\codesignal.com\sortorderids\sortorderids\source.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\fptsoftware\codesignal.com\sortorderids\sortorderids\source.cpp(101): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source1.cpp
+  Source2.cpp
+d:\fptsoftware\codesignal.com\sortorderids\sortorderids\source2.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source3.cpp
+  Generating Code...
+d:\fptsoftware\codesignal.com\sortorderids\sortorderids\source.cpp(39): warning C4715: 'compare': not all control paths return a value
+  sortOrderIDs.vcxproj -> D:\FPTSoftware\codesignal.com\sortOrderIDs\x64\Debug\sortOrderIDs.exe

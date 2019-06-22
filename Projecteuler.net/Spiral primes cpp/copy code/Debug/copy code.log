@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\spiral primes cpp\copy code\source.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  copy code.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Spiral primes cpp\Debug\copy code.exe
+  copy code.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Spiral primes cpp\Debug\copy code.pdb (Partial PDB)

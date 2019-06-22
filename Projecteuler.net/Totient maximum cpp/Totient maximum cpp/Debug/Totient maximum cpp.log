@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\totient maximum cpp\totient maximum cpp\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\totient maximum cpp\totient maximum cpp\source.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\totient maximum cpp\totient maximum cpp\source.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Totient maximum cpp.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Totient maximum cpp\Debug\Totient maximum cpp.exe
+  Totient maximum cpp.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Totient maximum cpp\Debug\Totient maximum cpp.pdb (Partial PDB)

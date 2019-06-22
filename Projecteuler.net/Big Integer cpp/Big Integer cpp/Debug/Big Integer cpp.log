@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(147): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(164): error C2280: 'BigInt &BigInt::operator =(const BigInt &)': attempting to reference a deleted function
+  d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(390): note: compiler has generated 'BigInt::operator =' here
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(187): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(189): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(233): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(238): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\big integer cpp\big integer cpp\source.cpp(270): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data

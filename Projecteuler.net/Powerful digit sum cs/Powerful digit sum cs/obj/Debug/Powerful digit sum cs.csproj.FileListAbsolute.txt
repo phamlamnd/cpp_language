@@ -1,0 +1,6 @@
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\bin\Debug\Powerful digit sum cs.exe.config
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\bin\Debug\Powerful digit sum cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\bin\Debug\Powerful digit sum cs.pdb
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\obj\Debug\Powerful digit sum cs.csprojResolveAssemblyReference.cache
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\obj\Debug\Powerful digit sum cs.exe
+D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Powerful digit sum cs\Powerful digit sum cs\obj\Debug\Powerful digit sum cs.pdb

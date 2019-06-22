@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\non-abundant sums\morespeed\source.cpp(34): warning C4715: 'IsAbundantNumber': not all control paths return a value
+  morespeed.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Non-abundant sums\Debug\morespeed.exe
+  morespeed.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Non-abundant sums\Debug\morespeed.pdb (Partial PDB)

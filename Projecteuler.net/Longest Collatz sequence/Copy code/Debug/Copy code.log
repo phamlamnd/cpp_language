@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\longest collatz sequence\copy code\source.cpp(15): warning C4244: 'return': conversion from 'unsigned __int64' to 'long', possible loss of data
+  Copy code.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Longest Collatz sequence\Debug\Copy code.exe
+  Copy code.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Longest Collatz sequence\Debug\Copy code.pdb (Partial PDB)

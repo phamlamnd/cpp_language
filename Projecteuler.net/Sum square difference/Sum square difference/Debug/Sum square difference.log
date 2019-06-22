@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\sum square difference\sum square difference\source.cpp(17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\study\electrical\cplusplus\bai tap tren mang c++\sum square difference\sum square difference\source.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sum square difference.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Sum square difference\Debug\Sum square difference.exe
+  Sum square difference.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Sum square difference\Debug\Sum square difference.pdb (Partial PDB)

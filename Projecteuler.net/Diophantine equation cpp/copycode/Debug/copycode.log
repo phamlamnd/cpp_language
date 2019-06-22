@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\diophantine equation cpp\copycode\source.cpp(119): warning C4018: '<': signed/unsigned mismatch
+d:\study\electrical\cplusplus\bai tap tren mang c++\diophantine equation cpp\copycode\source.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\study\electrical\cplusplus\bai tap tren mang c++\diophantine equation cpp\copycode\source.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\electrical\cplusplus\bai tap tren mang c++\diophantine equation cpp\copycode\source.cpp(221): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  copycode.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Diophantine equation cpp\Debug\copycode.exe
+  copycode.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Diophantine equation cpp\Debug\copycode.pdb (Partial PDB)

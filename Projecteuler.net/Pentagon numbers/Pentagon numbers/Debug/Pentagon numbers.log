@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\electrical\cplusplus\bai tap tren mang c++\pentagon numbers\pentagon numbers\source.cpp(25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Pentagon numbers.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pentagon numbers\Debug\Pentagon numbers.exe
+  Pentagon numbers.vcxproj -> D:\STUDY\Electrical\CPlusPlus\Bai Tap Tren Mang C++\Pentagon numbers\Debug\Pentagon numbers.pdb (Partial PDB)

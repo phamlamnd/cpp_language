@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(150): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(190): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(192): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(273): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+d:\workspace\cpp_language\projecteuler.net\convergents of e cpp\convergents of e cpp\source.cpp(528): warning C4018: '<': signed/unsigned mismatch
+  Convergents of e cpp.vcxproj -> D:\Workspace\cpp_language\Projecteuler.net\Convergents of e cpp\Debug\Convergents of e cpp.exe
