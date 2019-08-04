@@ -88,10 +88,10 @@ void sort(LinkedList<Employee*> &employeeList, SORT_BY sortKey)
 	bool(*funPointer)(Employee*&, Employee*&) = NULL;
 	switch (sortKey)
 	{
-		case SORT_ID_INC: funPointer = compareID_INC; break;
-		case SORT_ID_DEC: funPointer = compareID_DEC; break;
-		case SORT_NAME_INC: funPointer = compareName_INC; break;
-		case SORT_NAME_DEC: funPointer = compareName_DEC; break;
+		case SORT_ID_INC:   funPointer = &compareID_INC; break;
+		case SORT_ID_DEC:   funPointer = &compareID_DEC; break;
+		case SORT_NAME_INC: funPointer = &compareName_INC; break;
+		case SORT_NAME_DEC: funPointer = &compareName_DEC; break;
 		default: break;
 	}
 	employeeList.sort(funPointer);
